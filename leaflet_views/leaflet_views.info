@@ -1,0 +1,8 @@
+name = Leaflet views
+description = Views integration for the Leaflet module.
+core = 7.x
+
+dependencies[] = leaflet
+dependencies[] = geofield
+
+files[] = leaflet_views.views.inc
